@@ -5,10 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-file-opener2",
     "platforms": [
-      "android",
-      "ios",
-      "windows",
-      "electron"
+      "android"
     ]
   },
   "repository": {
@@ -17,10 +14,7 @@
   },
   "keywords": [
     "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios",
-    "cordova-windows",
-    "cordova-electron"
+    "cordova-android"
   ],
   "engines": {
     "cordova": ">=6.0.0"
